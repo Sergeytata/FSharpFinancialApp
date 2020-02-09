@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser.Tests\\Parser.Tests.fsproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser.Tests\\Parser.Tests.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser.Tests\\Parser.Tests.fsproj",
+        "projectName": "Parser.Tests",
+        "projectPath": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser.Tests\\Parser.Tests.fsproj",
+        "packagesPath": "C:\\Users\\Sergei\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sergei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser\\Parser.fsproj": {
+                "projectPath": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser\\Parser.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Expecto": {
+              "target": "Package",
+              "version": "[8.13.1, )"
+            },
+            "Expecto.VisualStudio.TestAdapter": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "FsCheck": {
+              "target": "Package",
+              "version": "[3.0.0-alpha4, )"
+            },
+            "FsCheck.Nunit": {
+              "target": "Package",
+              "version": "[3.0.0-alpha4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser\\Parser.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser\\Parser.fsproj",
+        "projectName": "Parser",
+        "projectPath": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser\\Parser.fsproj",
+        "packagesPath": "C:\\Users\\Sergei\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Sergei\\Documents\\3rd_Year\\HLP\\Financial Application\\FSharpFinancialApp\\Parser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sergei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

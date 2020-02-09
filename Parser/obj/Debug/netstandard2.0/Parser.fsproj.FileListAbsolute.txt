@@ -1,0 +1,16 @@
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\bin\Debug\netstandard2.0\Parser.deps.json
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\bin\Debug\netstandard2.0\Parser.dll
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\bin\Debug\netstandard2.0\Parser.pdb
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\obj\Debug\netstandard2.0\Parser.fsprojAssemblyReference.cache
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfoInputs.cache
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfo.fs
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\obj\Debug\netstandard2.0\Parser.dll
+C:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\MyCode\Parser\obj\Debug\netstandard2.0\Parser.pdb
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\bin\Debug\netstandard2.0\Parser.deps.json
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\bin\Debug\netstandard2.0\Parser.dll
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\bin\Debug\netstandard2.0\Parser.pdb
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\obj\Debug\netstandard2.0\Parser.fsprojAssemblyReference.cache
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfoInputs.cache
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfo.fs
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\obj\Debug\netstandard2.0\Parser.dll
+c:\Users\Sergei\Documents\3rd_Year\HLP\Financial Application\FSharpFinancialApp\Parser\obj\Debug\netstandard2.0\Parser.pdb
